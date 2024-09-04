@@ -3,7 +3,7 @@
 # show to user
 
 def main():
-    print("This is a Monthly payment loan calulator ")
+    print("This is a Monthly payment loan calculator ")
     print("")
 
 
