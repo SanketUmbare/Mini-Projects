@@ -6,7 +6,7 @@ email_sender = 'albite.tech23@gmail.com'
 email_password = 'gwuo lthp pijt hbmz'
 
 email_receiver = []
-email_bcc = ['rigoja6977@dalebig.com', 'sanketu2141@gmail.com', 'albite.tech23@gmail.com']
+email_bcc = ['rigoja6977@dalebig.com', 'albite.tech23@gmail.com']
 
 subject = 'Subscribe to our newsletter.'
 body = """
